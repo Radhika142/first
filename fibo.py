@@ -9,4 +9,4 @@ for i in range (26):
     f=s 
     s=t
     t=f+s
-    
+    print(t)
